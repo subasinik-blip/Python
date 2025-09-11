@@ -1,6 +1,5 @@
 a=10
 b=20
-
 #Arithmic operators
 
 print (a+b)
