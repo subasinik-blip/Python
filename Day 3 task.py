@@ -1,3 +1,5 @@
+#Task 3
+
 num=9
 if num % 2 ==0 :
  print("even")
@@ -52,4 +54,5 @@ mark = int(input("Enter the mark: "))
 if mark >= 50:
     print("Pass")
 else:
+
     print("Fail")
