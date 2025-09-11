@@ -7,6 +7,11 @@ newage=(age+10)
 print(f"my name is {name}/my age is {age}/after 10 years {newage}") 
 
 
+celsius = float(input("Enter temperature in Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print(f"{celsius}°C is equal to {fahrenheit}°F")
+
+
 #concadination
 firstname="joshep"
 lastname="vijay"
