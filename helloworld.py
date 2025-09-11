@@ -1,4 +1,12 @@
 #Task 1
+
+
+name="sangeetha"
+age=int("35")
+newage=(age+10)
+print(f"my name is {name}/my age is {age}/after 10 years {newage}") 
+
+
 #concadination
 firstname="joshep"
 lastname="vijay"
