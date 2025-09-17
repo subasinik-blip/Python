@@ -13,7 +13,7 @@ fruits.remove("Banana")
 print(fruits)
 
 
-students = {"Amit", "Priya", "Rohan", "Sneha", "Amit"}
+students = {"Amar", "abi", "subha", "subha", "divya"}
 print("Student names set:", students)
 
 
