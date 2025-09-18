@@ -1,7 +1,6 @@
 name="sangeetha"
 age=int("35")
-newage=("age*10")
-print(f"my name is {name}/my age is {age}/after 10 years{newage}")
+print(f"my name is {name}/my age is {age}/after 10 years {age+10}")
 
 #concadination
 firstname="joshep"
@@ -52,4 +51,3 @@ a=3.14*r*r
 print("the area of circle is:",a)
 
 
-subasini abirami
