@@ -1,6 +1,7 @@
+#Task 2
+
 a=10
 b=20
-
 #Arithmic operators
 
 print (a+b)
@@ -97,6 +98,7 @@ b=8
 print(~a)
 
 
+
 # Celsius to Fahrenheit conversion
 
 # Input temperature in Celsius
@@ -107,3 +109,4 @@ fahrenheit = (celsius * 9/5) + 32
 
 # Display result
 print(f"{celsius}°C is equal to {fahrenheit}°F")
+
